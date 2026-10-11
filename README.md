@@ -6,7 +6,7 @@ Tools for making a personal offline copy of a film you can watch on
 Filmicca's streams are protected with Widevine/PlayReady DRM, so they **cannot be downloaded**, and this
 project does not decrypt them. Instead it **records what the licensed player shows on screen**, inside a
 Docker container with its own virtual screen and sound card.
-> Check Filmicca's terms of service first, and keep recordings for personal use. Do not redistribute them.
+> Keep recordings for personal use. Do not redistribute them.
 
 ## Quick start
 
