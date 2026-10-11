@@ -1,0 +1,17 @@
+{
+  "name": "filmicca-recorder",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^7"
+  },
+  "dependencies": {
+    "playwright": "^1.64.0"
+  },
+  "scripts": {
+    "build": "bun build --compile cli.ts --outfile dist/filmicca-rec"
+  }
+}
